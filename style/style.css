@@ -1,0 +1,59 @@
+/* google font import */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Space+Mono&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Space Mono', monospace;
+    max-width: 1440px;
+    max-height: 1080px;
+    margin: 0 auto;
+    padding-top: 40px;
+    
+}
+
+/* css variable */
+:root {
+    --btn-bg: #333;
+}
+
+/* common css */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* content section css */
+.content-container {
+    margin-top: 150px;
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.content-img {
+    width: 50%;
+}
+
+.content-img img {
+    width: 100%;
+}
+
+
+.content-text {
+    width: 50%;
+}
+
+
+/* footer section */
+footer {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-top: 150px;
+    padding: 10px 5px;
+}
