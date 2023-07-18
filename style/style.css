@@ -13,7 +13,7 @@ body {
     max-height: 1080px;
     margin: 0 auto;
     padding-top: 40px;
-    
+
 }
 
 /* css variable */
@@ -49,11 +49,38 @@ body {
     width: 50%;
 }
 
+.content-text h1 {
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -2.24px;
+}
+
+.content-text p {
+    margin-top: 20px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.84px;
+}
+
+.btn-primary {
+    background-color: var(--btn-bg);
+    border: none;
+    color: white;
+    width: 196px;
+    height: 68px;
+    flex-shrink: 0;
+    margin-top: 40px;
+    text-transform: uppercase;
+}
 
 /* footer section */
 footer {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    margin-top: 150px;
+    margin-top: 200px;
     padding: 10px 5px;
 }
