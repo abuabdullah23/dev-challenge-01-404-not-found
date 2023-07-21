@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
+    <a href="https://abuabdullah23.github.io/dev-challenge-01-404-not-found/">
       Demo
     </a>
     <span> | </span>
